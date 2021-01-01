@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas van der Slik - aka [Lucas][website] 👋
+### Hi there, I'm Lucas van der Slik - aka [Lucas]👋
 
 ## I'm a Student and Developer!
 
