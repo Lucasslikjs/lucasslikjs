@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas van der Slik - aka [Lucas]👋
+### Hi there, I'm Lucas van der Slik👋
 
 ## I'm a Student and Developer!
 
@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Lucas | Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="Lucas | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Lucas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Lucas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
