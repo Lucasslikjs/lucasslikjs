@@ -39,6 +39,9 @@
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
 [<code>
+<img alt="npm" width="26px" src="https://img.icons8.com/color/240/000000/npm.png" />
+</code>](https://npmjs.com/)
+[<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
 
@@ -48,7 +51,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <a href="https://github.com/Lucasslikjs">
 <img align="center" alt="Lucas's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lucasslikjs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/sabesansathananthan">
+<a href="https://github.com/Lucasslikjs">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lucasslikjs&layout=compact&theme=radical" />
 </a>
 
