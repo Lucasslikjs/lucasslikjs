@@ -4,7 +4,7 @@
 
 - 🌍 I’m currently working on a my own site!
 - 💻 I’m currently learning Front-end Developing
-- ✅ 2020 Goals: Complete my first year at school!
+- ✅ 2021 Goals: Complete my second year at school!
 
 ### Connect with me:
 
