@@ -3,8 +3,8 @@
 ## I'm a Student and Developer!
 
 - 🌍 I’m currently working on a my own site!
-- 💻 I’m currently learning Front-end Developing
-- ✅ 2022 Goals: Complete my last year at school!
+- 💻 I’m currently learning Front/Back-end Developing
+- ✅ 2024 Goals: Get better in .NET
 
 ### Connect with me:
 
@@ -57,8 +57,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
-[website]: https://lucasvanderslik.nl
+[website]: https://vanderslik.online
 [twitter]: https://twitter.com/lucas0187x
 [facebook]: https://www.facebook.com/profile.php?id=100009512501010
-[instagram]: https://www.instagram.com/djslucas
-[linkedin]: https://www.linkedin.com/in/lucas-van-der-slik-4132471a6
+[instagram]: https://www.instagram.com/frfclucas
+[linkedin]: https://www.linkedin.com/in/lucasvanderslik
